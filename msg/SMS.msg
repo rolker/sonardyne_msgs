@@ -1,0 +1,2 @@
+string address
+string message
