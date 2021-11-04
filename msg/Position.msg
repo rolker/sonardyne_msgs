@@ -1,0 +1,9 @@
+Header header
+string UID
+float32 age
+string category
+string name
+float64 latitude
+float64 longitude
+float32 depth
+string history

@@ -4,6 +4,9 @@ find_package(catkin REQUIRED roscpp std_msgs message_generation)
 
 add_message_files(
   FILES
+  DeviceEnable.msg
+  DeviceStatus.msg
+  Position.msg
   SMS.msg
 )
 

@@ -1,0 +1,2 @@
+string UID
+bool enable
