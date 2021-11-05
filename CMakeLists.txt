@@ -6,6 +6,7 @@ add_message_files(
   FILES
   DeviceEnable.msg
   DeviceStatus.msg
+  DeviceValue.msg
   Position.msg
   SMS.msg
 )
