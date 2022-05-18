@@ -9,6 +9,7 @@ add_message_files(
   DeviceValue.msg
   Position.msg
   SMS.msg
+  SMSResponse.msg
 )
 
 generate_messages(
